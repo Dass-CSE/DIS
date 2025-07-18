@@ -9,7 +9,7 @@
 7. [Digital Signature Verification](program_07_digital_signature_verification.py)  
 8. [SSL Configuration with Flask](program_08_ssl_configuration_with_flask.py)  
 9. [Snort IDS Setup](program_09_snort_ids_setup.py)  
-10. [Firewall using iptables](program_10_firewall_using_iptables.py)  
+10. [Firewall using iptables – Shell Script](program_10_firewall_using_iptables.sh) 
 11. [SQL Injection Mitigation](program_11_sql_injection_mitigation.py)  
 12. [XSS Vulnerability Mitigation](program_12_xss_vulnerability_mitigation.py)  
 13. [Input Validation & Error Handling](program_13_input_validation_and_error_handling.py)  
